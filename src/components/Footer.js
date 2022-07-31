@@ -34,7 +34,7 @@ class Footer extends Component {
                   data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
-                ></span>
+              ></span>
               </div>
               <div 
                 onClick={() =>
@@ -50,7 +50,7 @@ class Footer extends Component {
                   data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
-                ></span>
+              ></span>
               </div>
             </div>
             <div className="col">
